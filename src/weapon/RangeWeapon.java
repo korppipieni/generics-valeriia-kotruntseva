@@ -1,4 +1,4 @@
-package Weapon;
+package weapon;
 
-public class RangeWeapon {
+public interface RangeWeapon extends Weapon{
 }

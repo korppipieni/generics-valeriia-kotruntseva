@@ -1,2 +1,4 @@
-public interface MagicWeapon extends Weapon{
+package weapon;
+
+public interface MagicWeapon extends Weapon {
 }

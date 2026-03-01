@@ -1,2 +1,4 @@
-public class MeleeWeapon extends Weapon{
+package weapon;
+
+public interface MeleeWeapon extends Weapon {
 }
